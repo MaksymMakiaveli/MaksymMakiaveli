@@ -10,6 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=WeatherProjectReact&theme=react 'Open WeatherProjectReact')](https://github.com/MaksymMakiaveli/WeatherProjectReact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=clone_clubhouse&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/clone_clubhouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=radio-music-itunes&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/radio-music-itunes)
 
 ---
 
