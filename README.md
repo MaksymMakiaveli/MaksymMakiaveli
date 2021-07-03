@@ -13,7 +13,7 @@
 
 ---
 
-### **Skills:**
+### **My Skills:**
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&message=Git&color=4b4453)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&label=&message=Javascript&color=4b4453)
@@ -27,7 +27,7 @@
 ![SASS](https://img.shields.io/static/v1?style=for-the-badge&logo=SASS&label=&message=SASS&color=4b4453)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&logo=Bootstrap&label=&message=Bootstrap&color=4b4453)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=Figma&label=&message=Figma&color=4b4453)
+<br/>
+<br/>
 
----
-
-Follow me
+## <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymMakiaveli&layout=compact&theme=react 'open README.md')](https://github.com/MaksymMakiaveli/MaksymMakiaveli)</div>
