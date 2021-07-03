@@ -8,9 +8,10 @@
 
 ### **My projects:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=WeatherProjectReact&theme=react 'Open WeatherProjectReact')](https://github.com/MaksymMakiaveli/WeatherProjectReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=clone_clubhouse&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/clone_clubhouse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=radio-music-itunes&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/radio-music-itunes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=WeatherProjectReact&theme=react '👍Open WeatherProjectReact')](https://github.com/MaksymMakiaveli/WeatherProjectReact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=clone_clubhouse&theme=react '👍Open clone_clubhouse')](https://github.com/MaksymMakiaveli/clone_clubhouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=radio-music-itunes&theme=react '👍Open radio-music-itunes')](https://github.com/MaksymMakiaveli/radio-music-itunes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=website-spaceX&theme=react '👍Open website-spaceX')](https://github.com/MaksymMakiaveli/website-spaceX)
 
 ---
 
