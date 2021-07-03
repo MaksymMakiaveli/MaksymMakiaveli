@@ -1,8 +1,8 @@
 [![Header](https://github.com/MaksymMakiaveli/MaksymMakiaveli/blob/master/assets/PG23.gif)](https://github.com/MaksymMakiaveli)
 
-## <center> **Hello, I'm Maksym Babii**
+## <center> **Hello, I'm Maksym Babii**</center>
 
-### <center> **I'm a Junior React JS Developer**
+### <center> **I'm a Junior React JS Developer**</center>
 
 ---
 
@@ -15,6 +15,7 @@
 
 ### **Skills:**
 
+![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&message=Git&color=4b4453)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&label=&message=Javascript&color=4b4453)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&logo=React&label=&message=React&color=4b4453)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&logo=Redux&label=&message=Redux&color=4b4453&logoColor=764ABC)
