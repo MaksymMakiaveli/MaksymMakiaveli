@@ -9,7 +9,7 @@
 ### **My projects:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=WeatherProjectReact&theme=react 'Open WeatherProjectReact')](https://github.com/MaksymMakiaveli/WeatherProjectReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=IT-Kamasutra-React-Project&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/IT-Kamasutra-React-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksymMakiaveli&repo=clone_clubhouse&theme=react 'Open IT-Kamasutra-React-Project')](https://github.com/MaksymMakiaveli/clone_clubhouse)
 
 ---
 
