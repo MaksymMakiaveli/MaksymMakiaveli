@@ -1,8 +1,8 @@
 [![Header](https://github.com/MaksymMakiaveli/MaksymMakiaveli/blob/master/assets/PG23.gif)](https://github.com/MaksymMakiaveli)
 
-## <p align="center">**Hello, I'm Maksym Babii**</p>
+## <p align="center">**Hello👋, I'm Maksym Babii**</p>
 
-### <p align="center">**I'm a Junior React JS Developer**</p>
+### <p align="center">**I'm a Junior ⚛️React JS⚛️ Developer**</p>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### **My Skills:**
+### **💻My Skills:**
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&message=Git&color=4b4453)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&label=&message=Javascript&color=4b4453)
@@ -28,6 +28,9 @@
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&logo=Bootstrap&label=&message=Bootstrap&color=4b4453)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=Figma&label=&message=Figma&color=4b4453)
 <br/>
-<br/>
 
 ## <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymMakiaveli&layout=compact&theme=react 'open README.md')](https://github.com/MaksymMakiaveli/MaksymMakiaveli)</div>
+
+### Contact me:
+
+## <a>[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=Gmail&label=&message=Gmail&color=4b4453)](https://mail.google.com)</a> <a>[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=&message=instagram&color=4b4453)](https://www.instagram.com/_.makiaveli._/?hl=ru '@_.makiaveli._')</a>
