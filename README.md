@@ -1,8 +1,8 @@
 [![Header](https://github.com/MaksymMakiaveli/MaksymMakiaveli/blob/master/assets/PG23.gif)](https://github.com/MaksymMakiaveli)
 
-## <center> **Hello, I'm Maksym Babii**</center>
+## <p align="center">**Hello, I'm Maksym Babii**</p>
 
-### <center> **I'm a Junior React JS Developer**</center>
+### <p align="center">**I'm a Junior React JS Developer**</p>
 
 ---
 
