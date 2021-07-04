@@ -33,7 +33,7 @@
 
 ## <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymMakiaveli&layout=compact&theme=react 'open README.md')](https://github.com/MaksymMakiaveli/MaksymMakiaveli)</div>
 
-## <div align="center">![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaksymBabii&layout=compact&range=last_7_days)</div>
+## <div align="center">![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaksymBabiiMakiaveli&layout=compact&range=last_7_days)</div>
 
 ### Contact me:
 
