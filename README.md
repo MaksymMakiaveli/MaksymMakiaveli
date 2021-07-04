@@ -37,4 +37,4 @@
 
 ### Contact me:
 
-## <a href='mailto:maksymbabiiwork@gmail.com'>[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=Gmail&label=&message=Gmail&color=4b4453)](maksymbabiiwork@gmail.com)</a> <a>[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=&message=instagram&color=4b4453)](https://www.instagram.com/_.makiaveli._/?hl=ru '@_.makiaveli._')</a> <a>[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=&message=telegram&color=4b4453 '@MaksymMakiaveli')](https://t.me/MaksymMakiaveli)</a>
+## <a >[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=Gmail&label=&message=Gmail&color=4b4453)](mailto:maksymbabiiwork@gmail.com)</a> <a>[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=&message=instagram&color=4b4453)](https://www.instagram.com/_.makiaveli._/?hl=ru '@_.makiaveli._')</a> <a>[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=&message=telegram&color=4b4453 '@MaksymMakiaveli')](https://t.me/MaksymMakiaveli)</a>
