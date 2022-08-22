@@ -2,7 +2,7 @@
 
 ## <p align="center">**Hello👋, I'm Maksym Babii**</p>
 
-### <p align="center">**I'm a Junior ⚛️React JS⚛️ Developer**</p>
+### <p align="center">**I'm a Middle ⚛️React JS⚛️ Developer**</p>
 
 ---
 
