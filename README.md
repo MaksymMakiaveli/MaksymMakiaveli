@@ -4,7 +4,7 @@
 
 ### <p align="center">**My name is Maksym**</p>
 
-#### <p align="center">**Software engineer with over three years of hands-on experience in the industry. I have solid knowledge in creating high-quality code that is up to industry standards and best practices.**</p>
+#### <p align="center">**Experienced software engineer with over four years in the industry, specializing in high-quality code production. Adhering to industry standards and best practices, I am dedicated to delivering solutions that consistently exceed expectations. Proficient in languages and frameworks such as TypeScript, React, Angular, NodeJS, Golang, SvelteKit, NestJS, and NextJS.**</p>
 
 ---
 
