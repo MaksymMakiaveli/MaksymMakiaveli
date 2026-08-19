@@ -1,6 +1,6 @@
-![Maksym Babii - Senior Full Stack Engineer](./assets/cover.png)
+![Maksym Babii - Senior Full Stack Engineer](./assets/poster.png)
 
-<h1 align="center">Maksym Babii - Senior Full Stack Engineer</h1>
+<h1 align="center">Maksym Babii</h1>
 
 <p align="center">
   <strong>Senior Full Stack Engineer with 8 years of experience, working across the stack. I take products from an empty repository to production and own the frontend architecture and internal tooling the rest of the team builds on. I carry the same ownership on the server side.</strong>
