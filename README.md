@@ -17,7 +17,7 @@
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Svelte/SvelteKit](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Svelte/SvelteKit](https://img.shields.io/badge/Svelte_SvelteKit-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![MobX](https://img.shields.io/badge/MobX-0D1117?style=for-the-badge&logo=mobx&logoColor=FF9955)
 
