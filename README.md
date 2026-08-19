@@ -1,7 +1,5 @@
 ![Maksym Babii - Senior Full Stack Engineer](./assets/poster.png)
 
-<h1 align="center">Maksym Babii</h1>
-
 <p align="center">
   <strong>Senior Full Stack Engineer with 8 years of experience, working across the stack. I take products from an empty repository to production and own the frontend architecture and internal tooling the rest of the team builds on. I carry the same ownership on the server side.</strong>
 </p>
@@ -19,8 +17,7 @@
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Svelte/SvelteKit](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![MobX](https://img.shields.io/badge/MobX-0D1117?style=for-the-badge&logo=mobx&logoColor=FF9955)
 
